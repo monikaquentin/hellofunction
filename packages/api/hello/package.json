@@ -1,0 +1,13 @@
+{
+  "name": "redvelvet",
+  "version": "1.0.0",
+  "description": "Digitalocean | Hello Function",
+  "main": "v0.js",
+  "scripts": {
+    "test": "jest --coverage --runInBand --forceExit --verbose false"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
