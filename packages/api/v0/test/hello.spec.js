@@ -1,4 +1,4 @@
-const { main } = require('../v0')
+const { main } = require('../index')
 
 describe('Test App', () => {
   test('v0', () => {

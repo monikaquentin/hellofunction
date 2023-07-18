@@ -1,3 +1,4 @@
+.ignore
 coverage/
 package-lock.json
 test
